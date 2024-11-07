@@ -1,9 +1,5 @@
-env\
-.env\
-.env/
+# Ignore virtual environments
+venv/
 env/
-env\
-\env\
-.env
-.\env
-
+.venv/
+.env/
